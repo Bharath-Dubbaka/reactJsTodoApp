@@ -1,5 +1,5 @@
 
-About: this was my first TodoApp in react.. I forgot to add the Delete function in Excitment maybe
+About: this was my first TodoApp in react.. I forgot to add the Delete function in excitment of my first project.
 
 
 ..
