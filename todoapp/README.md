@@ -1,3 +1,12 @@
+
+About: this was my first TodoApp in react.. I forgot to add the Delete function in Excitment maybe
+
+
+..
+.
+.
+.
+.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
